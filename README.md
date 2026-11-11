@@ -154,6 +154,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
 
 
+- 📄 [ouba-classmate (jd-resume-match-mcp)](https://github.com/ouxxyy/ouba-classmate) - Zero-dependency local stdio MCP server and agent skills suite for deterministic resume-vs-JD rubric scoring (`jd-match-rubric/0.1.0`) with line-number evidence citation (`L1..Ln`) and an open 12-repo benchmark dataset.
+
 <br />
 
 ## 🗄️ <a name="databases"></a>Databases
